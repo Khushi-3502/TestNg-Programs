@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class Test3 {
 	
-	@Test(enabled=false)
+	@Test(enabled=true)
 	public void a1()
 	{
 		System.out.println("a1 method");

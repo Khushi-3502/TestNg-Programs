@@ -3,6 +3,7 @@
   <test name="MyTest">
     <classes>
       <class name="NewGroup.KhushiProjFinal.Test1"/>
+      <class name="NewGroup.KhushiProjFinal.Test3"/>
     </classes>
   </test>
 </suite>

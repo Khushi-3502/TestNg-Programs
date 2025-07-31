@@ -1,31 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results total="5" passed="5" failed="0" skipped="0">
+<testng-results total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-31T03:56:06Z" name="MySuite" finished-at="2025-07-31T03:56:06Z" duration-ms="52">
+  <suite started-at="2025-07-31T03:59:35Z" name="MySuite" finished-at="2025-07-31T03:59:35Z" duration-ms="75">
     <groups>
     </groups>
-    <test started-at="2025-07-31T03:56:06Z" name="MyTest" finished-at="2025-07-31T03:56:06Z" duration-ms="52">
+    <test started-at="2025-07-31T03:59:35Z" name="MyTest" finished-at="2025-07-31T03:59:35Z" duration-ms="75">
       <class name="NewGroup.KhushiProjFinal.Test3">
-        <test-method signature="a3()[pri:0, instance:NewGroup.KhushiProjFinal.Test3@6bbe85a8]" started-at="2025-07-31T09:26:06Z" name="a3" finished-at="2025-07-31T09:26:06Z" duration-ms="14" status="PASS">
+        <test-method signature="a3()[pri:0, instance:NewGroup.KhushiProjFinal.Test3@17f9d882]" started-at="2025-07-31T09:29:35Z" name="a3" finished-at="2025-07-31T09:29:35Z" duration-ms="23" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- a3 -->
-        <test-method signature="a4()[pri:0, instance:NewGroup.KhushiProjFinal.Test3@6bbe85a8]" started-at="2025-07-31T09:26:06Z" name="a4" finished-at="2025-07-31T09:26:06Z" duration-ms="4" status="PASS">
+        <test-method signature="a1()[pri:0, instance:NewGroup.KhushiProjFinal.Test3@17f9d882]" started-at="2025-07-31T09:29:35Z" name="a1" finished-at="2025-07-31T09:29:35Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a1 -->
+        <test-method signature="a4()[pri:0, instance:NewGroup.KhushiProjFinal.Test3@17f9d882]" started-at="2025-07-31T09:29:35Z" name="a4" finished-at="2025-07-31T09:29:35Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- a4 -->
-        <test-method signature="a2()[pri:0, instance:NewGroup.KhushiProjFinal.Test3@6bbe85a8]" started-at="2025-07-31T09:26:06Z" name="a2" finished-at="2025-07-31T09:26:06Z" duration-ms="2" status="PASS">
+        <test-method signature="a2()[pri:0, instance:NewGroup.KhushiProjFinal.Test3@17f9d882]" started-at="2025-07-31T09:29:35Z" name="a2" finished-at="2025-07-31T09:29:35Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- a2 -->
-        <test-method signature="a2()[pri:0, instance:NewGroup.KhushiProjFinal.Test3@6bbe85a8]" started-at="2025-07-31T09:26:06Z" name="a2" finished-at="2025-07-31T09:26:06Z" duration-ms="2" status="PASS">
+        <test-method signature="a2()[pri:0, instance:NewGroup.KhushiProjFinal.Test3@17f9d882]" started-at="2025-07-31T09:29:35Z" name="a2" finished-at="2025-07-31T09:29:35Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- a2 -->
       </class> <!-- NewGroup.KhushiProjFinal.Test3 -->
+      <class name="NewGroup.KhushiProjFinal.Test2">
+        <test-method is-config="true" signature="bc()[pri:0, instance:NewGroup.KhushiProjFinal.Test2@3f191845]" started-at="2025-07-31T09:29:35Z" name="bc" finished-at="2025-07-31T09:29:35Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="BM3()[pri:0, instance:NewGroup.KhushiProjFinal.Test2@3f191845]" started-at="2025-07-31T09:29:35Z" name="BM3" finished-at="2025-07-31T09:29:35Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM3 -->
+        <test-method signature="t1()[pri:0, instance:NewGroup.KhushiProjFinal.Test2@3f191845]" started-at="2025-07-31T09:29:35Z" name="t1" finished-at="2025-07-31T09:29:35Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1 -->
+        <test-method is-config="true" signature="BM2()[pri:0, instance:NewGroup.KhushiProjFinal.Test2@3f191845]" started-at="2025-07-31T09:29:35Z" name="BM2" finished-at="2025-07-31T09:29:35Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM2 -->
+        <test-method is-config="true" signature="AM1()[pri:0, instance:NewGroup.KhushiProjFinal.Test2@3f191845]" started-at="2025-07-31T09:29:35Z" name="AM1" finished-at="2025-07-31T09:29:35Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM1 -->
+        <test-method signature="t2()[pri:0, instance:NewGroup.KhushiProjFinal.Test2@3f191845]" started-at="2025-07-31T09:29:35Z" name="t2" finished-at="2025-07-31T09:29:35Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t2 -->
+        <test-method is-config="true" signature="BM2()[pri:0, instance:NewGroup.KhushiProjFinal.Test2@3f191845]" started-at="2025-07-31T09:29:35Z" name="BM2" finished-at="2025-07-31T09:29:35Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM2 -->
+        <test-method is-config="true" signature="BM3()[pri:0, instance:NewGroup.KhushiProjFinal.Test2@3f191845]" started-at="2025-07-31T09:29:35Z" name="BM3" finished-at="2025-07-31T09:29:35Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM3 -->
+        <test-method is-config="true" signature="AM1()[pri:0, instance:NewGroup.KhushiProjFinal.Test2@3f191845]" started-at="2025-07-31T09:29:35Z" name="AM1" finished-at="2025-07-31T09:29:35Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM1 -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:NewGroup.KhushiProjFinal.Test2@3f191845]" started-at="2025-07-31T09:29:35Z" name="ac" finished-at="2025-07-31T09:29:35Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+      </class> <!-- NewGroup.KhushiProjFinal.Test2 -->
       <class name="NewGroup.KhushiProjFinal.Test1">
-        <test-method signature="t1()[pri:0, instance:NewGroup.KhushiProjFinal.Test1@1c5920df]" started-at="2025-07-31T09:26:06Z" name="t1" finished-at="2025-07-31T09:26:06Z" duration-ms="3" status="PASS">
+        <test-method signature="t1()[pri:0, instance:NewGroup.KhushiProjFinal.Test1@7a35b0f5]" started-at="2025-07-31T09:29:35Z" name="t1" finished-at="2025-07-31T09:29:35Z" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t1 -->

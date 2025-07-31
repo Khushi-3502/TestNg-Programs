@@ -1,1 +1,9 @@
 /target/
+
+# Ignore everything in test-output
+test-output/*
+
+# Allow selected files from test-output
+!test-output/emailable-report.html
+!test-output/index.html
+!test-output/testng-results.xml
